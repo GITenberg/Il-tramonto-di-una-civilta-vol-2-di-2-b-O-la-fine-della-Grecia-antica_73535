@@ -1,0 +1,29 @@
+_repo: Il-tramonto-di-una-civilta-vol-2-di-2-b-O-la-fine-della-Grecia-antica_73535
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barbagallo, Corrado
+    birthdate: 1877
+    deathdate: 1952
+    gutenberg_agent_id: '56853'
+    url: http://www.gutenberg.org/2009/agents/56853
+    wikipedia: https://it.wikipedia.org/wiki/Corrado_Barbagallo
+description: ''
+gutenberg_issued: '2024-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73535'
+language: it
+pgterms:marc905: 20230104045200barbagallo
+pgterms:marc906: '1923'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aFirenze :$bLe Monnier, $c1923, copyright 1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Il tramonto di una civiltà, vol. 2 (di 2) : $b O la fine della Grecia antica'
+url: http://www.gutenberg.org/ebooks/73535
