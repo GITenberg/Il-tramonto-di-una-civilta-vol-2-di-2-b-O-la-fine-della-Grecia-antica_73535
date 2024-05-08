@@ -1,5 +1,8 @@
 _repo: Il-tramonto-di-una-civilta-vol-2-di-2-b-O-la-fine-della-Grecia-antica_73535
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73535-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbagallo, Corrado
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56853
     wikipedia: https://it.wikipedia.org/wiki/Corrado_Barbagallo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73535#Il-tramonto-di-una-civilta-vol-2-di-2-b-O-la-fine-della-Grecia-antica
 gutenberg_issued: '2024-05-04'
 gutenberg_type: Text
 identifiers:
